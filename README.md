@@ -218,23 +218,6 @@ http://localhost:8501
 
 ---
 
-## Screenshots
-
-Create a folder named **screenshots** and place your application screenshots inside it.
-
-Example:
-
-```markdown
-![Home](screenshots/home.png)
-
-![Data](screenshots/data.png)
-
-![Analysis](screenshots/analysis.png)
-
-![Prediction](screenshots/prediction.png)
-```
-
----
 
 ## Future Improvements
 
