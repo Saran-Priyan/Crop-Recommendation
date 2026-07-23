@@ -158,9 +158,7 @@ Crop-Recommendation-System/
 ├── Rainfall.csv
 ├── xgboost_crop_model.pkl
 ├── requirements.txt
-├── README.md
-├── screenshots/
-└── docs/
+└── README.md
 ```
 
 ---
@@ -198,16 +196,8 @@ pip install -r requirements.txt
 
 ### Run the Application
 
-If your main file is named **app.py**:
-
 ```bash
 streamlit run app.py
-```
-
-If it is still named **MyApp.py**:
-
-```bash
-streamlit run MyApp.py
 ```
 
 The application will start at:
